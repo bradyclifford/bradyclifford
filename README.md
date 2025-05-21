@@ -2,10 +2,10 @@ Full-stack developer, husband and father. Love to water ski and create splendife
 
 ---
 
-I am an engineer, an entrepreneur, a husband and a father. I strive to improve myself personally and professionally. I enjoy learning new technologies and applying them to provide a solution to a need. I spend my spare time traveling, hiking and water-skiing with my family.
+I am an engineer, entrepreneur, husband, and father committed to continuous personal and professional growth. I enjoy exploring new technologies and applying them to develop effective solutions. In my free time, I love traveling, hiking, and water-skiing with my family.
 
-_Specialties: Software Development, Professional Management, Graphical Design, System Administration, DevOps, Pops, Network Diagnostics, Multimedia Production_
+_Specialties: Software Development, Professional Management, Graphic Design, System Administration, DevOps, Network Diagnostics, Multimedia Production, CI/CD, Domain-Driven Design, Distributed Systems_
 
-Concerning my work, I strive to have a successful career in computer technology, software development and multimedia production that capitalizes on past projects and experiences; thus allowing for advancement based on my competitive spirit and desire to excel through hard work, creativity and dedication.
+Professionally, I aim to build a successful career in computer technology, software development, and multimedia production by leveraging past experiences and projects. My competitive spirit drives me to excel through hard work, creativity, and dedication.
 
-Concerning my personal life, I strive to be a great husband, father and friend through honesty, integrity and friendship.
+Personally, I strive to be a loving husband, devoted father, and loyal friend, guided by honesty, integrity, and genuine connection.
