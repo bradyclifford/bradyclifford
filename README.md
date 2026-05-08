@@ -6,7 +6,7 @@ I’m an engineer and entrepreneur committed to continuous personal and professi
 
 Outside of work, you’ll find me traveling, hiking, or water-skiing with my family.
 
-_Specialties: Software Development · Professional Management · Graphic Design · System Administration · DevOps · Network Diagnostics · Multimedia Production · CI/CD · Domain-Driven Design · Distributed Systems_
+_Specialties: AI-first Software Development · Professional Management · Graphic Design · System Administration · DevOps · Network Diagnostics · Multimedia Production · CI/CD · Domain-Driven Design · Distributed Systems_
 
 Professionally, my goal is to create impactful software and multimedia experiences by leveraging my diverse background and hands-on project experience. I’m driven by curiosity, creativity, and dedication to quality.
 
